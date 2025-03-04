@@ -1,1 +1,1 @@
-calculate.github.ru
+calculate.github.io
